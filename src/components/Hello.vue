@@ -1,13 +1,9 @@
-<template>
-    hello world
-</template>
+<template> hello world </template>
 
 <script>
-export default {
-    name: "Hello"
-}
+  export default {
+    name: 'Hello',
+  };
 </script>
 
-<style scoped lang="scss">
-
-</style>
+<style scoped lang="scss"></style>

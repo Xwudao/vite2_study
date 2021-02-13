@@ -1,9 +1,8 @@
 const state = {
-    userInfo: {
-        username: '12fjdk',
-        token: '1212',
-    }
-}
+  userInfo: {
+    username: '12fjdk',
+    token: '1212',
+  },
+};
 
-
-export default state
+export default state;

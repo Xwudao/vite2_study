@@ -1,13 +1,11 @@
 <template>
-    <div class="admin">Admin</div>
+  <div class="admin">Admin</div>
 </template>
 
 <script>
-export default {
-    name: "Admin"
-}
+  export default {
+    name: 'Admin',
+  };
 </script>
 
-<style scoped lang="scss">
-
-</style>
+<style scoped lang="scss"></style>

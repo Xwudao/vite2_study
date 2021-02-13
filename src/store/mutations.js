@@ -1,7 +1,7 @@
 const mutations = {
-    changeUserInfo(state, payload) {
-        state.userInfo = payload
-    }
-}
+  changeUserInfo(state, payload) {
+    state.userInfo = payload;
+  },
+};
 
-export default mutations
+export default mutations;
