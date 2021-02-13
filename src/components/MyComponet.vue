@@ -69,5 +69,9 @@ export default {
 }
 </script>
 <style scoped lang="scss">
+.el-calendar__header{
+    width: 100px;
+    height: 100px;
 
+}
 </style>

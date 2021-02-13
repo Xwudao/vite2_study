@@ -1,15 +1,12 @@
-import Home from "../components/Home.vue";
-import Admin from "../components/Admin.vue";
-
 const routes = [
     {
         path: '/',
-        component: Home,
+        component: () => import("../components/Home.vue"),
         name: 'Home'
     },
     {
         path: '/admin',
-        component: Admin,
+        component: () => import("../components/Admin.vue"),
         name: 'Admin'
     },
 ]
